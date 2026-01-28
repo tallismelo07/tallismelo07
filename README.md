@@ -7,4 +7,4 @@
 </p>
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,angular,tailwind,py,,aws,mysql,postgres,mongodb,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,angular,tailwind,py,aws,mysql,postgres,mongodb,docker)](https://skillicons.dev)
