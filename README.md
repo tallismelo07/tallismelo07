@@ -6,4 +6,4 @@
 <p>My social and contact networks <a href="https://www.linkedin.com/in/tallisteixeira/" target="_blank">LinkedIn </a> </p>
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,tailwind,mysql,postgres,mongodb,docker,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,mysql)](https://skillicons.dev)
