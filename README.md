@@ -16,4 +16,4 @@
 
 <p>🛠️ Tecnologias:</p>
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,reactjs,mysql,docker,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,ts,react,nextjs,tailwind,mysql,docker,mongodb)](https://skillicons.dev)
