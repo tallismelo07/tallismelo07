@@ -2,7 +2,7 @@
 
 <hr>
 
-<p>👨‍💻 Desenvolvedor JavaScript em formação, com foco em desenvolvimento web utilizando HTML, CSS, JavaScript, TypeScript, React e Next.js.</p>
+<p>👨‍💻 Desenvolvedor FullStack em formação, com foco em desenvolvimento web utilizando JavaScript, TypeScript, React e Next.js.</p>
 
 <p>🎓 Formação em Análise e Desenvolvimento de Sistemas pela UNILAVRAS.</p>
 
@@ -15,4 +15,5 @@
 <hr>
 
 <p>🛠️ Tecnologias:</p>
-[![My Skills](https://skillicons.dev/icons?i=js,mysql)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,reactjs,mysql,docker,mongodb)](https://skillicons.dev)
